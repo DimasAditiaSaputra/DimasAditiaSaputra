@@ -14,12 +14,5 @@ I am a beginner programmer passionate about becoming a skilled **Backend Develop
 - Diving deeper into cybersecurity and penetration testing
 - Enhancing my knowledge of secure coding practices
 
-## 💻 Tech Stack
-- **Languages:** Java, PHP, JavaScript, C++
-- **Backend:** Node.js, Express.js, Laravel
-- **Databases:** MySQL, MongoDB
-- **Security Tools:** Wireshark, Burp Suite, Metasploit
-- **Other:** Docker, Linux, Git
-
-Always eager to learn and collaborate on exciting projects! 🚀
+Thank Youu
 
