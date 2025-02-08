@@ -1,12 +1,25 @@
-- 👋 Hi, I’m @DimasAditiaSaputra
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# Hi there! 👋
 
-<!---
-DimasAditiaSaputra/DimasAditiaSaputra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## About Me
+I am a beginner programmer passionate about becoming a skilled **Backend Developer** and **Cybersecurity Expert**. I love exploring new technologies and continuously improving my coding and security skills.
+
+## 🔥 What I’m Learning
+- Backend Development (Java, PHP, Node.js)
+- Cybersecurity (CTF, Web Security, Reverse Engineering)
+- Databases (MySQL)
+- Networking & Ethical Hacking
+
+## 🚀 Current Focus
+- Mastering Java for backend development
+- Diving deeper into cybersecurity and penetration testing
+- Enhancing my knowledge of secure coding practices
+
+## 💻 Tech Stack
+- **Languages:** Java, PHP, JavaScript, C++
+- **Backend:** Node.js, Express.js, Laravel
+- **Databases:** MySQL, MongoDB
+- **Security Tools:** Wireshark, Burp Suite, Metasploit
+- **Other:** Docker, Linux, Git
+
+Always eager to learn and collaborate on exciting projects! 🚀
+
