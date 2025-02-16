@@ -1,7 +1,7 @@
 # Hi there! 👋
 
 ## About Me
-I am a beginner programmer passionate about becoming a skilled **Backend Developer** and **Cybersecurity Expert**. I love exploring new technologies and continuously improving my coding and security skills.
+I am a beginner programmer passionate about becoming a skilled **FullStack Developer** and **Cybersecurity Expert**. I love exploring new technologies and continuously improving my coding and security skills.
 
 ## 🔥 What I’m Learning
 - Backend Development (Java, PHP, Node.js)
